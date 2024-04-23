@@ -1,1 +1,1 @@
-<img src="stuff.svg" width="100%" height="100%" alt="css-in-readme" style="font-family: sans-serif">
+<a href="https://twitter.com/koiwypher/status/1668066126713028611"><img src="https://pbs.twimg.com/media/FyYpTOhXoAEqnO4?format=jpg&name=large" alt="sily outfit mrrpwfs by wypher"></a>
