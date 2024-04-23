@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>smth</title>
-    <style>
+<style>
         * {
             margin: 0;
             padding: 0;
@@ -14,10 +10,6 @@
             text-align: center;
         }
     </style>
-</head>
-<body>
-    <div class="footer">
+<div class="footer">
         <p>Arts by <a target="_blank" href="https://twitter.com/wypher2">Wypher</a></p>
     </div>
-</body>2
-</html>
