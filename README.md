@@ -1,3 +1,3 @@
-<a href="https://twitter.com/koiwypher/status/1668066126713028611"><img src="https://pbs.twimg.com/media/FyYpTOhXoAEqnO4?format=jpg&name=large" alt="sily outfit mrrpwfs by wypher"></a>
+<a href="https://twitter.com/wypher2/status/1674896594406178816"><img src="https://pbs.twimg.com/media/Fz5tkvyWcAAFmPT?format=jpg&name=large" alt="'stroll' by wypher"></a>
 > [!NOTE]
-> Image by <a href="https://twitter.com/koiwypher">Wypher</a> on <a href="https://twitter.com/koiwypher/status/1668066126713028611">Twitter</a>
+> Image by <a href="https://twitter.com/wypher2">Wypher</a> on <a href="https://twitter.com/wypher2/status/1674896594406178816">Twitter</a>
