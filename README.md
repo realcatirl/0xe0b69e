@@ -3,4 +3,4 @@
 > Art by <a target="_blank" href="https://x.com/wypher2">Wypher</a> on <a target="_blank" href="https://x.com/wypher2/status/1674896594406178816">X (Twitter)</a>
 
 > [!NOTE]
-> Profile picture by <a target="_blank" href="https://x.com/JodyGrape">JodyGrape</a> on <a target="_blank" href="https://x.com/JodyGrape/status/1651919189458780161">X (Twitter)</a>
+> Profile picture by <a target="_blank" href="https://x.com/mengwudi334330">mengwudi</a> on <a target="_blank" href="https://x.com/mengwudi334330/status/1807980696033808799">X (Twitter)</a>
